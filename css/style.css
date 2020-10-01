@@ -30,6 +30,15 @@
 /* COMMON */
 
 
+h1{
+   margin-bottom:20px;
+   margin-top:20px;
+}
+
+[class*="col-"]{
+  padding:10px;
+}
+
 .grey {
   background-color: #f9f9f9;
 }
